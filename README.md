@@ -3,7 +3,7 @@
 
 This document is an index for online reading materials in order to learn Python and backend development/engineering concepts from scratch and develop a mastery sufficient for Senior/Principal Backend Engineers and Data Engineers.
 
-If you have any question/proposal or want to discuss this index, do not hesitate to contact me on [LinkedIn](https://www.linkedin.com/in/eldar-sehayek/) or open an issue on GitHub.
+If you have any question/proposal or want to discuss this index, do not hesitate to contact me on [telegram](https://t.me//LuisDavid011012) or open an issue on GitHub.
 
 <br>
 
@@ -414,7 +414,7 @@ Features:
 
 Your contributions and proposals are always welcome! Please refer to the [contribution guidelines](CONTRIBUTING.md) first.
 
-I may keep some pull requests open until I look into the references myself, you could [vote for them](https://github.com/Eldar1205/awesome-python-backend/pulls) by adding :+1: to them.
+I may keep some pull requests open until I look into the references myself, you could [vote for them](https://github.com/Luis-David95/awesome-python-backend/pulls) by adding :+1: to them.
 
 ## Contributors
 
